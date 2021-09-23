@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Flutter/Dart
 - 📫 How to reach me
 - **email**: u.mamasoliev4427@gmail.com 
-- **telegram**: @MrHope4427
-- **linkedin**: linkedin.com/in/umid-mamasoliev-5752a120b 
+- **telegram**: https://t.me/MrHope4427
+- **linkedin**: https://www.linkedin.com/in/umid-mamasoliev-5752a120b/
 
 <!---
 UmidMamasoliev/UmidMamasoliev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
