@@ -2,6 +2,7 @@
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Flutter/Dart
 - 📫 How to reach me
+
 email: u.mamasoliev4427@gmail.com
 telegram: @MrHope4427
 linkedin: linkedin.com/in/umid-mamasoliev-5752a120b
