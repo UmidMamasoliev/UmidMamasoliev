@@ -4,7 +4,7 @@
 - 📫 How to reach me
 - **email**: u.mamasoliev4427@gmail.com 
 - **telegram**: https://t.me/MrHope4427
-- **linkedin**: https://www.linkedin.com/in/umid-mamasoliev-5752a120b/
+- **linkedin**: https://www.linkedin.com/in/umidmamasoliev/
 
 <!---
 UmidMamasoliev/UmidMamasoliev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
