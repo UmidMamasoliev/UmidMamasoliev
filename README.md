@@ -1,11 +1,3 @@
-
-- 🌱 I’m currently learning Flutter/Dart
-- 📫 How to reach me
-- **email**: u.mamasoliev4427@gmail.com 
-- **telegram**: https://t.me/MrHope4427
-- **linkedin**: https://www.linkedin.com/in/umidmamasoliev/
-
-
 # 💫About Me :
 - 👋 Hi, I’m Umid Mamasoliev
 - 👀 I’m interested in Mobile App Development
@@ -15,7 +7,8 @@
 - ⚡ Fun fact: I think I am a super lazy programmer!:)
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umidmamasoliev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umidmamasoliev/) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/UmidMamasoliev/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](u.mamasoliev4427@gmail.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrHope4427) 
 
