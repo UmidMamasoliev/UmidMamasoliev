@@ -7,88 +7,28 @@
 - **linkedin**: https://www.linkedin.com/in/umidmamasoliev/
 
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
-</div>  
-  
+# 💫About Me :
+🔭 I’m currently working on a Domain-Driven design pattern project, which includes various topics such as working with Firebase/Firestore, BloC pattern, and so on...
+🌱 I’m currently learning Kotlin, DDD, BloC architecture, Hive, Firebase/Firestore...
+❓ Ask me about anything related to Flutter/Dart, Mobile App Development.
+⚡ Fun fact: I think I am a super lazy programmer!:)
 
-### *<div align="center">Hi 👋, I'm Umid Mamasoliev, a Mobile Engineer with a demonstrated skills of working in the information technology and services industry. Skilled in Mobile Application Development, Dart and Flutter.</div>*  
-  
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umidmamasoliev/) 
 
-- ###### 🔭 I’m currently working on a Domain-Driven design pattern project, which includes various topics such as working with Firebase/Firestore, BloC pattern, and so on...  
-  
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=UmidMamasoliev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UmidMamasoliev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmidMamasoliev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- ###### 🌱 I’m currently learning Kotlin, DDD, BloC architecture, Hive, Firebase/Firestore...  
-  
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- ###### ❓ Ask me about anything related to Flutter/Dart, Mobile App Development.  
-  
+---
+[![](https://visitcount.itsvg.in/api?id=UmidMamasoliev&icon=8&color=12)](https://visitcount.itsvg.in)
 
-- ###### ⚡ Fun fact: I think I am super lazy programmer!:)  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/UmidMamasoliev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/umidmamasoliev/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=UmidMamasoliev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmidMamasoliev&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=UmidMamasoliev&&style=flat-square" align="center" />
-</div>  
-
-<br />
 <!---
 UmidMamasoliev/UmidMamasoliev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
