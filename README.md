@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Umid Mamasoliev
-- 👀 I’m interested in Mobile App Development
+
 - 🌱 I’m currently learning Flutter/Dart
 - 📫 How to reach me
 - **email**: u.mamasoliev4427@gmail.com 
@@ -8,10 +7,12 @@
 
 
 # 💫About Me :
-🔭 I’m currently working on a Domain-Driven design pattern project, which includes various topics such as working with Firebase/Firestore, BloC pattern, and so on...
-🌱 I’m currently learning Kotlin, DDD, BloC architecture, Hive, Firebase/Firestore...
-❓ Ask me about anything related to Flutter/Dart, Mobile App Development.
-⚡ Fun fact: I think I am a super lazy programmer!:)
+- 👋 Hi, I’m Umid Mamasoliev
+- 👀 I’m interested in Mobile App Development
+- 🔭 I’m currently working on a Domain-Driven design pattern project, which includes various topics such as working with Firebase/Firestore, BloC pattern, and so on...
+- 🌱 I’m currently learning Kotlin, DDD, BloC architecture, Hive, Firebase/Firestore...
+- ❓ Ask me about anything related to Flutter/Dart, Mobile App Development.
+- ⚡ Fun fact: I think I am a super lazy programmer!:)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umidmamasoliev/) 
