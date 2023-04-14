@@ -6,7 +6,7 @@
 - ❓ Ask me about anything related to Flutter/Dart, Mobile App Development.
 - ⚡ Fun fact: I think I am a super lazy programmer!:)
 
-[![My Resume](https://img.shields.io/badge/My_Resume-12100E?style=for-the-badge&logo=file&logoColor=white&style=padding:50px)](https://your-resume-url-here.com)
+[![My Resume](https://img.shields.io/badge/My_Resume-12100E?style=for-the-badge&logo=file&logoColor=white)](https://your-resume-url-here.com)
 
 
 ## 🌐Socials
