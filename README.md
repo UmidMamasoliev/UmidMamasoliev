@@ -8,6 +8,7 @@
 
 ## 🌐Socials
 [![My Resume](https://img.shields.io/badge/My_Resume-12100E?style=for-the-badge&logo=file&logoColor=white)](https://umidmamasoliev.github.io/UmidMamasoliev/)
+[![My Resume](https://img.shields.io/badge/My_Resume-12100E?style=for-the-badge&logo=file&logoColor=white&style=background-color:white;color:black)](https://umidmamasoliev.github.io/UmidMamasoliev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umidmamasoliev/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/UmidMamasoliev/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](u.mamasoliev4427@gmail.com) 
